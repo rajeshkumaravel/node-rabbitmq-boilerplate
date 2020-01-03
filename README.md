@@ -82,3 +82,7 @@ foo@bar: ~$ curl --location --request POST 'http://localhost:3343/api/v1/save' \
 3. [AMQP](https://robomq.readthedocs.io/en/latest/AMQP/)
 4. [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
 5. [Enable Management Plugin](https://www.rabbitmq.com/management.html#getting-started)
+6. [amqp.node](https://github.com/squaremo/amqp.node)
+7. [Intro — RabbitMQ Message Queue with NodeJs](https://medium.com/@deshan.m/intro-rabbitmq-message-queue-with-nodejs-b9fa9411c9a8)
+8. [An Advanced Message Queuing Protocol (AMQP) Walkthrough](https://www.digitalocean.com/community/tutorials/an-advanced-message-queuing-protocol-amqp-walkthrough)
+9. [RabbitMQ vs Kafka Part 2 - RabbitMQ Messaging Patterns](https://jack-vanlightly.com/blog/2017/12/5/rabbitmq-vs-kafka-part-2-rabbitmq-messaging-patterns-and-topologies)
