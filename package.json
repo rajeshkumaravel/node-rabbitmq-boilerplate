@@ -19,6 +19,6 @@
   "homepage": "https://github.com/rajeshkumaravel/node-rabbitmq-boilerplate#readme",
   "dependencies": {
     "amqplib": "^0.5.5",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
